@@ -1,16 +1,13 @@
-## Hi there 👋
+My passion for computers began in my childhood with Scratch. The joy of building things by combining blocks gradually led me to the flexible world of Python and the low-level, powerful structure of C++.
+Today, I am constantly developing new projects to take what I have learned to the next level. Network protocols, web development, and database management are some of the areas I am currently exploring.
+My goal is to turn my passion into a profession by continuously learning and improving myself in the field of computer science.
 
-<!--
-**eren394/eren394** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I can't say those are my skills but this is what i am most interested in/trying to learn
+>C++ (System Programming)
+>Python (Automation & Network)
+>Socket Programming
+>Network Protocols (TCP/IP, UDP, HTTP, FTP)
+>Web Development (HTML, CSS, JavaScript)
+>Database Management (MySQL, SQLite)
+>Git & GitHub Management
+>Linux Shell Scripting
