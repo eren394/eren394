@@ -1,13 +1,39 @@
-My passion for computers began in my childhood with Scratch. The joy of building things by combining blocks gradually led me to the flexible world of Python and the low-level, powerful structure of C++.
-Today, I am constantly developing new projects to take what I have learned to the next level. Network protocols, web development, and database management are some of the areas I am currently exploring.
-My goal is to turn my passion into a profession by continuously learning and improving myself in the field of computer science.
+#  Selam! 
 
-I can't say those are my skills but this is what i am most interested in/trying to learn
->C++ (System Programming)
->Python (Automation & Network)
->Socket Programming
->Network Protocols (TCP/IP, UDP, HTTP, FTP)
->Web Development (HTML, CSS, JavaScript)
->Database Management (MySQL, SQLite)
->Git & GitHub Management
->Linux Shell Scripting
+Çocukluğumda Scratch ile başlayan üretim tutkum, bugün Python'ın esnekliği ve C++'ın düşük seviyeli gücüyle devam ediyor. Karmaşık sistemleri anlamayı, ağ protokollerini çözmeyi ve veriyi yönetmeyi seviyorum. Sürekli öğrenen ve inşa eden bir teknoloji tutkunuyum.
+
+---
+
+###  Şu An Nelerle İlgileniyorum?
+
+-  **Sistem Programlama:** C++ ile yüksek performanslı araçlar geliştiriyorum (Bkz: [Aegis-Architect](Link)).
+-  **Ağ Güvenliği & Protokoller:** TCP/IP, UDP ve Socket programlama üzerine deneyler yapıyorum.
+-  **Full-Stack Yolculuğu:** Modern web teknolojileri ve veritabanı yönetimi ile projelerimi ayağa kaldırıyorum.
+
+---
+
+###  Teknoloji Çantam (Öğrenme Sürecinde)
+
+| Alan | Araçlar & Diller |
+| :--- | :--- |
+| **Diller** | `C++`, `Python`, `JavaScript` |
+| **Backend & Network** | `Socket Programming`, `TCP/IP`, `UDP`, `Linux Shell` |
+| **Web & UI** | `HTML5`, `CSS3`, `React (Gelecek)` |
+| **Veri Yönetimi** | `MySQL`, `SQLite` |
+| **Araçlar** | `Git`, `GitHub`, `Linux` |
+
+---
+
+### GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[eren394]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[eren394]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+
+###  Benimle İletişime Geç
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eren-aydın-a3379231b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[aeren2857@gmail.com])
