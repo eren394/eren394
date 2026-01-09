@@ -22,14 +22,7 @@
 | **Veri Yönetimi** | `MySQL`, `SQLite` |
 | **Araçlar** | `Git`, `GitHub`, `Linux` |
 
----
 
-### GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[eren394]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[eren394]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
 
 ---
 
