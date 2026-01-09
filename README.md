@@ -25,12 +25,12 @@
 
 
 ---
-### 📊 GitHub İstatistiklerim
+###  GitHub İstatistiklerim
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eren394&show_icons=true&theme=tokyonight&hide_border=true" alt="Eren'in GitHub İstatistikleri" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eren394&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eren394&show_icons=true&theme=tokyonight&count_private=true" alt="Eren'in İstatistikleri" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eren394&layout=compact&theme=tokyonight&hide_border=true" alt="Diller" />
 </p>
-
 ---
 
 ###  Benimle Bağlantı Kurun
