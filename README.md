@@ -6,7 +6,7 @@
 
 ###  Şu An Nelerle İlgileniyorum?
 
--  **Sistem Programlama:** C++ ile yüksek performanslı araçlar geliştiriyorum (Bkz: [Aegis-Architect](Link)).
+-  **Sistem Programlama:** C++ ile yüksek performanslı araçlar geliştiriyorum (Bkz: [Aegis-Architect](https://github.com/eren394/Aegis-Architect)).
 -  **Ağ Güvenliği & Protokoller:** TCP/IP, UDP ve Socket programlama üzerine deneyler yapıyorum.
 -  **Full-Stack Yolculuğu:** Modern web teknolojileri ve veritabanı yönetimi ile projelerimi ayağa kaldırıyorum.
 
