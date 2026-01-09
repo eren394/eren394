@@ -25,8 +25,14 @@
 
 
 ---
+### 📊 GitHub İstatistiklerim
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=eren394&show_icons=true&theme=tokyonight&hide_border=true" alt="Eren'in GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eren394&layout=compact&theme=tokyonight&hide_border=true" alt="En Çok Kullanılan Diller" />
+</p>
 
-###  Benimle İletişime Geç
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eren-aydın-a3379231b)
+###  Benimle Bağlantı Kurun
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-ayd%C4%B1n-a3379231b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[aeren2857@gmail.com])
